@@ -1,0 +1,15 @@
+form{
+   display: flex;
+   flex-direction: column; 
+   margin: 20px 20px;
+}
+form label{
+    display: flex;
+    flex-direction: column;
+}
+form input{
+    width: 100%;
+}
+form textarea{
+    width: 100%;
+}
